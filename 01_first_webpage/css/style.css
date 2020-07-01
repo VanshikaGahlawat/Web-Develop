@@ -1,0 +1,20 @@
+body{
+	background-color: #faf2f2;
+}
+img{
+	border-radius: 100%;
+	cursor: pointer;
+	height: 200px;
+}
+
+hr{
+	border-style: none;
+	border-top-style: dotted;
+	border-color: grey;
+	border-width: 10px;
+	height: 0px;
+	width: 5%;
+}
+.details{
+	text-align: center;
+}
